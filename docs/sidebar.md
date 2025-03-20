@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [👏Débuter l'aventure](/)
-* [🚨Problème](/problem)
+- [Home](/)
 
-* [💼 Métier Intérim](/side-job)
+- 📲 Radio
+
+- [📲 Radio](/radio)
+- [🚨 Common Problems](/radio/problems)
